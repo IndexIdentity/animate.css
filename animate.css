@@ -2538,8 +2538,8 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateX(-2000px);
-    transform: translateX(-2000px);
+    -webkit-transform: translateX(-1000px);
+    transform: translateX(-1000px);
   }
 }
 
@@ -2552,9 +2552,9 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateX(-2000px);
-    -ms-transform: translateX(-2000px);
-    transform: translateX(-2000px);
+    -webkit-transform: translateX(-1000px);
+    -ms-transform: translateX(-1000px);
+    transform: translateX(-1000px);
   }
 }
 
@@ -2571,8 +2571,8 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateX(2000px);
-    transform: translateX(2000px);
+    -webkit-transform: translateX(1000px);
+    transform: translateX(1000px);
   }
 }
 
@@ -2585,9 +2585,9 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateX(2000px);
-    -ms-transform: translateX(2000px);
-    transform: translateX(2000px);
+    -webkit-transform: translateX(1000px);
+    -ms-transform: translateX(1000px);
+    transform: translateX(1000px);
   }
 }
 
@@ -2672,8 +2672,8 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateY(2000px);
-    transform: translateY(2000px);
+    -webkit-transform: translateY(1000px);
+    transform: translateY(1000px);
   }
 }
 
@@ -2686,9 +2686,9 @@ Copyright (c) 2013 Daniel Eden
 
   100% {
     opacity: 0;
-    -webkit-transform: translateY(2000px);
-    -ms-transform: translateY(2000px);
-    transform: translateY(2000px);
+    -webkit-transform: translateY(1000px);
+    -ms-transform: translateY(1000px);
+    transform: translateY(1000px);
   }
 }
 
